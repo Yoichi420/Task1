@@ -229,4 +229,22 @@ footer {
   color: #fff;
 }
 
-@media screen and (max-width:)
+@media screen and (max-width:768px) {
+
+header {
+  width: 100%;
+}
+
+.nav-list {
+  width: 100%;
+}
+
+.nav-list-item{
+  width: 100%;
+}
+
+main {
+  display: block;
+}
+
+}
